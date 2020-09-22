@@ -1,3 +1,3 @@
-
-Time series show:
-https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
+- User Guide: https://pandas.pydata.org/docs/user_guide/
+- API Reference: https://pandas.pydata.org/docs/reference/index.html#api
+- Time series show: https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
