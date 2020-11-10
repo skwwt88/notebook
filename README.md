@@ -1,22 +1,22 @@
 # notebook
 
 ## Common Env Setup
-conda install -c anaconda pandas
+conda install -c anaconda pandas -y
 
-conda install -c anaconda nltk
+conda install -c anaconda nltk -y
 
-conda install -c tqdm
+conda install -c conda-forge tqdm -y
 
-conda install -c conda-forge matplotlib
+conda install -c conda-forge matplotlib -y
 
-conda install -c anaconda seaborn
+conda install -c anaconda seaborn -y
 
-conda install -c anaconda scipy
+conda install -c anaconda scipy -y
 
-conda install numpy
+conda install numpy -y
 
-conda install scikit-learn
+conda install scikit-learn -y
 
-conda install -c conda-forge lightgbm
+conda install -c conda-forge lightgbm -y
 
 conda create -n <<Name>> --
