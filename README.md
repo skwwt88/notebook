@@ -19,4 +19,6 @@ conda install scikit-learn -y
 
 conda install -c conda-forge lightgbm -y
 
+conda install -c anaconda ipython -y
+
 conda create -n <<Name>> --
